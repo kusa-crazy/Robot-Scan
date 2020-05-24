@@ -11,9 +11,7 @@ if Pkg == "s":
         os.system("pkg install sl -y")
         os.system("pip install requests")
         os.system("mv sbs ../../usr/bin")
-        os.system("cd ~")
-        os.system("mv botscan ../usr/etc")
-        
+        os.system("mv * ../usr/etc")
     except:
         print("  HOUVE ALGUM ERRO OU O PROCESSO FOI MORTO!")
     else:
