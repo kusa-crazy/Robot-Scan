@@ -27,6 +27,6 @@ if option == "":
     except:
         print('ERRO')
     else:
-        os.system("statkali")
+        os.system("startkali")
 else:
     os.system("clear")
