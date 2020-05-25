@@ -27,6 +27,7 @@ python setup.py
 
 -EXECUÇÃO:
 Para execultar você digita o comando srs, ele pode ser executado em qualquer lugar que você esteja no terminal
+se quiser instalar o Kali no seu termux execute o script install-kali.py
 
 OBS: É obrigatório que você use o chmod +x antes de fazer as instalações do install.py e do setup.py.
 
