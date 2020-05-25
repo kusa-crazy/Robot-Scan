@@ -31,3 +31,4 @@ Para execultar você digita o comando srs, ele pode ser executado em qualquer lu
 OBS: É obrigatório que você use o chmod +x antes de fazer as instalações do install.py e do setup.py.
 
 DIVIRTASE E ME PAGUE UM PC!
+ass:Crazy
