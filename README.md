@@ -1,9 +1,9 @@
 # botscan
-O RobotScan foi criado com o intuito de facilitar e animar seus escaneamentos, sim animar... o RobotScan fala!
+<h1>O RobotScan foi criado com o intuito de facilitar e animar seus escaneamentos, sim animar... o RobotScan fala!
 
-O RobotScan foi criado totalmente para funcionar no TERMUX, pra instalar é bem simples, siga os passos a baixo que você não vai se perder.
+O RobotScan foi criado totalmente para funcionar no TERMUX, pra instalar é bem simples, siga os passos a baixo que você não vai se perder.</h1>
 
--REQUISITOS:
+<strong>-REQUISITOS:</strong>
 
 •Termux;
 
@@ -13,7 +13,7 @@ O RobotScan foi criado totalmente para funcionar no TERMUX, pra instalar é bem 
 
 •git
 
--INSTALAÇÃO:
+<strong>-INSTALAÇÃO:</strong>
 
 git clone https://github.com/kusa-crazy/botscan
 
@@ -25,7 +25,8 @@ python install.py
 
 python setup.py
 
--EXECUÇÃO:
+<strong>-EXECUÇÃO:</strong>
+
 Para execultar você digita o comando srs, ele pode ser executado em qualquer lugar que você esteja no terminal
 se quiser instalar o Kali no seu termux execute o script install-kali.py
 
