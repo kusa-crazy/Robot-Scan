@@ -31,5 +31,5 @@ se quiser instalar o Kali no seu termux execute o script install-kali.py
 
 OBS: É obrigatório que você use o chmod +x antes de fazer as instalações do install.py e do setup.py.
 
-<strang>DIVIRTA-SE E ME PAGUE UM PC!</strang>
-ass:Crazy
+<strong>DIVIRTA-SE E ME PAGUE UM PC!</strong>
+<em>ass:Crazy</em>
